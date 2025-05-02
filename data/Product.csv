@@ -1,0 +1,201 @@
+ProductID,Name,Description,Price,StockLevel,Category,ImageURL
+1,Samsung Galaxy S24,Labore mollitia repellendus neque iusto beatae quidem tempora rem alias.,683.91,0,Fashion,https://example.com/images/1.jpg
+2,Boat Earbuds,Eos sapiente inventore adipisci.,373.34,24,Electronics,https://example.com/images/2.jpg
+3,Fabindia Kurta,Sequi voluptatibus ex ex delectus quasi animi.,1093.52,33,Electronics,https://example.com/images/3.jpg
+4,Amul Butter,Libero voluptatum fugiat odio nihil autem beatae ipsum.,3237.03,91,Food,https://example.com/images/4.jpg
+5,Ray-Ban Sunglasses,Nihil doloremque odit dolorum voluptate vel.,4563.57,80,Fashion,https://example.com/images/5.jpg
+6,Samsung Galaxy S24,Excepturi voluptate eos laboriosam alias delectus consequatur.,960.78,38,Food,https://example.com/images/6.jpg
+7,Levi's Jeans,Delectus minus modi enim dolor voluptas vitae facilis excepturi doloribus.,995.94,90,Food,https://example.com/images/7.jpg
+8,Boat Earbuds,Reprehenderit sunt eos magni.,2398.33,47,Food,https://example.com/images/8.jpg
+9,Boat Earbuds,Architecto molestias necessitatibus pariatur impedit fuga numquam.,3371.49,44,Food,https://example.com/images/9.jpg
+10,Wings of Fire,Sint ea vero odio aliquid deleniti architecto ut odit.,1583.71,30,Electronics,https://example.com/images/10.jpg
+11,Levi's Jeans,Itaque accusamus libero dignissimos harum magnam in amet nulla.,3782.51,16,Food,https://example.com/images/11.jpg
+12,Fabindia Kurta,Provident cum odio occaecati dolorum.,4169.33,68,Fashion,https://example.com/images/12.jpg
+13,MTR Ready Meals,Rem libero aliquid tempore reprehenderit.,4033.55,79,Food,https://example.com/images/13.jpg
+14,Amul Butter,Non fugit corporis reprehenderit accusamus sed laboriosam similique.,866.09,38,Electronics,https://example.com/images/14.jpg
+15,OnePlus TV,Inventore sed perspiciatis dolores officia reprehenderit vel.,1680.91,65,Books,https://example.com/images/15.jpg
+16,Think and Grow Rich,Repudiandae quisquam modi doloribus et voluptatem dignissimos dolore repudiandae fugiat.,1287.27,92,Fashion,https://example.com/images/16.jpg
+17,Rich Dad Poor Dad,Provident nobis doloremque autem alias dolorem.,1223.87,20,Food,https://example.com/images/17.jpg
+18,Kissan Jam,Nihil possimus neque est hic.,1287.17,22,Food,https://example.com/images/18.jpg
+19,Nestle Maggi,Aperiam ad aliquam ea voluptate consequuntur.,3977.6,42,Books,https://example.com/images/19.jpg
+20,Fabindia Kurta,Ipsam id expedita explicabo veritatis beatae.,826.44,23,Food,https://example.com/images/20.jpg
+21,Nike Running Shoes,Nobis totam quia repudiandae aperiam blanditiis aspernatur iusto officiis.,2469.66,98,Electronics,https://example.com/images/21.jpg
+22,Ray-Ban Sunglasses,Incidunt nam veniam totam repellat iusto eaque doloribus minima ratione.,155.1,77,Books,https://example.com/images/22.jpg
+23,OnePlus TV,Nesciunt voluptatem neque laudantium architecto tempore sit dolorem quae reiciendis.,3125.16,82,Books,https://example.com/images/23.jpg
+24,MTR Ready Meals,Perferendis ullam vel neque tenetur.,4637.42,69,Food,https://example.com/images/24.jpg
+25,Levi's Jeans,Porro unde iste voluptatum sit quae temporibus.,4346.32,71,Books,https://example.com/images/25.jpg
+26,Aashirvaad Atta,Repellendus mollitia ea ullam iste provident.,3544.07,47,Food,https://example.com/images/26.jpg
+27,Samsung Galaxy S24,Mollitia saepe harum cupiditate itaque.,3598.49,45,Electronics,https://example.com/images/27.jpg
+28,Think and Grow Rich,Possimus nostrum eaque in praesentium.,2330.97,37,Electronics,https://example.com/images/28.jpg
+29,The Secret,Perspiciatis nobis non consequatur voluptas.,3880.2,54,Books,https://example.com/images/29.jpg
+30,Aashirvaad Atta,Provident ex voluptatem ratione suscipit veniam occaecati magni.,1435.03,87,Electronics,https://example.com/images/30.jpg
+31,Samsung Galaxy S24,Aperiam esse dignissimos ipsa quos.,376.97,31,Electronics,https://example.com/images/31.jpg
+32,Fabindia Kurta,Odit consectetur exercitationem iure facere odit.,1011.1,18,Books,https://example.com/images/32.jpg
+33,Sony Headphones,Occaecati maiores et pariatur cum sequi nemo.,2386.87,100,Books,https://example.com/images/33.jpg
+34,The Alchemist,Rerum fugiat omnis repellat perferendis minima consequuntur nemo odio nulla.,3288.68,92,Books,https://example.com/images/34.jpg
+35,Fabindia Kurta,Laboriosam quisquam ullam fugiat qui qui placeat provident ad expedita.,1933.79,38,Fashion,https://example.com/images/35.jpg
+36,iPhone 15 Pro,Deleniti inventore deserunt optio rem illo pariatur.,1624.26,85,Electronics,https://example.com/images/36.jpg
+37,Biba Dress,Dolorum eligendi quis fugiat earum.,4728.89,75,Food,https://example.com/images/37.jpg
+38,Levi's Jeans,Aut dolorem perspiciatis accusantium adipisci.,3775.09,61,Fashion,https://example.com/images/38.jpg
+39,iPhone 15 Pro,Autem iste quas earum debitis atque quaerat temporibus cum magni natus.,4596.96,82,Fashion,https://example.com/images/39.jpg
+40,The Secret,Impedit error facilis quis.,1385.15,26,Food,https://example.com/images/40.jpg
+41,Nestle Maggi,Adipisci molestiae perferendis impedit quos ipsum quidem porro pariatur pariatur.,2059.82,34,Fashion,https://example.com/images/41.jpg
+42,Nike Running Shoes,Explicabo mollitia ipsam animi minus.,2939.83,0,Electronics,https://example.com/images/42.jpg
+43,MTR Ready Meals,Quidem labore dolores omnis expedita.,1397.57,19,Food,https://example.com/images/43.jpg
+44,Biba Dress,Fugit ullam a similique cumque non earum repellat.,2098.43,34,Food,https://example.com/images/44.jpg
+45,Biba Dress,Earum nulla quidem in laborum eaque quidem.,3758.44,80,Books,https://example.com/images/45.jpg
+46,Levi's Jeans,Totam numquam commodi expedita iusto laborum placeat repellat iusto impedit.,1687.14,81,Fashion,https://example.com/images/46.jpg
+47,Amul Butter,Cumque natus sint minus non tempore.,2535.94,63,Fashion,https://example.com/images/47.jpg
+48,MTR Ready Meals,Doloribus earum tenetur ex eaque.,3278.46,61,Food,https://example.com/images/48.jpg
+49,Aashirvaad Atta,Distinctio similique delectus nostrum ad.,1088.43,87,Electronics,https://example.com/images/49.jpg
+50,The Secret,Nesciunt necessitatibus cum voluptates corporis omnis.,4839.26,55,Fashion,https://example.com/images/50.jpg
+51,iPhone 15 Pro,Eum expedita vel nobis quod.,918.45,26,Books,https://example.com/images/51.jpg
+52,OnePlus TV,Ipsum eveniet deleniti quaerat nihil nulla aut harum.,186.48,38,Electronics,https://example.com/images/52.jpg
+53,Ray-Ban Sunglasses,Ex aut voluptatem cupiditate autem temporibus minus debitis.,4332.34,9,Food,https://example.com/images/53.jpg
+54,MTR Ready Meals,Ex quia corrupti itaque minima.,2679.96,35,Electronics,https://example.com/images/54.jpg
+55,Boat Earbuds,Dolorem repudiandae placeat placeat nulla numquam tempora accusantium minima culpa.,1515.52,80,Electronics,https://example.com/images/55.jpg
+56,Levi's Jeans,Blanditiis iusto sit natus impedit doloremque doloribus.,999.05,28,Electronics,https://example.com/images/56.jpg
+57,Rich Dad Poor Dad,Laborum nostrum mollitia voluptas ut amet voluptatum.,3410.38,66,Electronics,https://example.com/images/57.jpg
+58,The Secret,Incidunt eos deleniti totam dicta.,4211.5,32,Books,https://example.com/images/58.jpg
+59,Nestle Maggi,Nihil minus iure distinctio nulla repellat earum tempora.,3897.71,12,Fashion,https://example.com/images/59.jpg
+60,Samsung Galaxy S24,Ratione eius atque sunt quaerat laboriosam.,2256.38,26,Electronics,https://example.com/images/60.jpg
+61,iPhone 15 Pro,Quisquam ipsam aperiam occaecati voluptate ex alias a in.,1590.3,89,Books,https://example.com/images/61.jpg
+62,iPhone 15 Pro,Ducimus sit occaecati incidunt eaque praesentium provident magnam excepturi saepe assumenda.,4130.44,75,Fashion,https://example.com/images/62.jpg
+63,iPhone 15 Pro,Ut id beatae voluptate nam voluptas odio itaque corrupti.,2207.08,97,Food,https://example.com/images/63.jpg
+64,Kissan Jam,Reiciendis aperiam asperiores adipisci dolorem consequatur.,4144.6,90,Books,https://example.com/images/64.jpg
+65,MTR Ready Meals,Molestiae quidem quasi nobis qui illo reprehenderit.,2868.57,65,Books,https://example.com/images/65.jpg
+66,Biba Dress,Dolorem necessitatibus fugit maiores quaerat.,2955.16,71,Books,https://example.com/images/66.jpg
+67,The Alchemist,Esse iste numquam quidem beatae veritatis error necessitatibus autem.,1193.07,44,Books,https://example.com/images/67.jpg
+68,Biba Dress,Nam cumque quod dicta consectetur perspiciatis a magnam rem.,2759.14,27,Books,https://example.com/images/68.jpg
+69,Sony Headphones,Vel officia corporis saepe quasi sequi.,728.19,8,Books,https://example.com/images/69.jpg
+70,Levi's Jeans,Eveniet eius aut temporibus dolore eius labore nesciunt dolor.,4998.53,94,Books,https://example.com/images/70.jpg
+71,Amul Butter,Veritatis sed laboriosam occaecati nobis sequi distinctio repellat dolor quod.,641.38,3,Electronics,https://example.com/images/71.jpg
+72,Biba Dress,Amet perferendis praesentium laudantium illo quibusdam ipsa.,3216.17,56,Books,https://example.com/images/72.jpg
+73,Boat Earbuds,Atque provident eveniet laudantium at optio tempore.,2518.05,79,Books,https://example.com/images/73.jpg
+74,Amul Butter,Quod labore at dolorum quidem.,1613.41,23,Food,https://example.com/images/74.jpg
+75,Sony Headphones,Facilis dolorum voluptatum numquam unde.,4489.21,37,Fashion,https://example.com/images/75.jpg
+76,Samsung Galaxy S24,Id dignissimos ea quisquam facilis numquam voluptas dicta consequatur ea quod.,3893.48,98,Fashion,https://example.com/images/76.jpg
+77,MTR Ready Meals,Libero repellat ullam ipsa explicabo adipisci officia consectetur amet.,1401.05,45,Electronics,https://example.com/images/77.jpg
+78,Nestle Maggi,Sed excepturi corrupti unde quod nam quibusdam tempore.,1133.76,65,Fashion,https://example.com/images/78.jpg
+79,Aashirvaad Atta,Quae ipsam voluptates impedit illo cupiditate.,4736.92,9,Fashion,https://example.com/images/79.jpg
+80,Think and Grow Rich,Natus cupiditate corporis delectus quod.,4911.81,67,Books,https://example.com/images/80.jpg
+81,Biba Dress,Iste corrupti dignissimos animi facere.,132.94,77,Electronics,https://example.com/images/81.jpg
+82,Fabindia Kurta,Tempora quisquam aliquam quos quibusdam enim harum.,231.47,74,Books,https://example.com/images/82.jpg
+83,MTR Ready Meals,Ea eveniet itaque velit aliquid.,1345.39,93,Food,https://example.com/images/83.jpg
+84,Wings of Fire,Quos delectus voluptatum voluptatibus alias.,3211.6,32,Books,https://example.com/images/84.jpg
+85,Nestle Maggi,Sint perferendis quas aspernatur atque magnam modi.,4554.21,66,Food,https://example.com/images/85.jpg
+86,Fabindia Kurta,Sed ducimus minus occaecati recusandae hic sit maxime dolor quis.,1946.95,7,Fashion,https://example.com/images/86.jpg
+87,Amul Butter,Officiis quos temporibus adipisci provident ut numquam molestias exercitationem ut sunt.,4956.45,48,Electronics,https://example.com/images/87.jpg
+88,Nike Running Shoes,Nobis iste aperiam ea ducimus.,1006.72,6,Fashion,https://example.com/images/88.jpg
+89,Biba Dress,Ea doloribus deleniti eum adipisci laborum.,240.53,4,Fashion,https://example.com/images/89.jpg
+90,Think and Grow Rich,Debitis voluptate ducimus optio repellendus.,1835.55,37,Fashion,https://example.com/images/90.jpg
+91,iPhone 15 Pro,Soluta fugit debitis rem quis in.,4622.17,56,Food,https://example.com/images/91.jpg
+92,Levi's Jeans,Cum quam voluptatibus a veritatis.,2597.12,38,Fashion,https://example.com/images/92.jpg
+93,Levi's Jeans,Praesentium minima itaque consectetur soluta ipsa ipsum occaecati iure.,4901.39,25,Electronics,https://example.com/images/93.jpg
+94,Aashirvaad Atta,Ad repellendus autem sunt molestiae aut ea placeat recusandae.,3733.34,35,Food,https://example.com/images/94.jpg
+95,Biba Dress,Veniam iste aperiam doloribus eaque nisi blanditiis facilis soluta.,1510.49,19,Electronics,https://example.com/images/95.jpg
+96,Fabindia Kurta,Saepe nam sed quibusdam quo.,202.64,26,Fashion,https://example.com/images/96.jpg
+97,Aashirvaad Atta,Ratione veritatis repudiandae quas ad nostrum omnis deleniti.,1361.56,90,Food,https://example.com/images/97.jpg
+98,Ray-Ban Sunglasses,Provident nisi fugiat dicta accusantium minima.,3324.05,91,Electronics,https://example.com/images/98.jpg
+99,Wings of Fire,Fugiat placeat minus odio incidunt saepe pariatur laboriosam.,3058.6,54,Fashion,https://example.com/images/99.jpg
+100,Ray-Ban Sunglasses,Deleniti voluptatum voluptas pariatur laudantium vitae totam voluptatibus consequatur qui.,2576.46,11,Electronics,https://example.com/images/100.jpg
+101,Think and Grow Rich,Accusantium tenetur autem tenetur inventore repellat.,961.93,45,Books,https://example.com/images/101.jpg
+102,iPhone 15 Pro,Ducimus occaecati distinctio modi minima tenetur ipsa fuga.,3252.11,17,Fashion,https://example.com/images/102.jpg
+103,Wings of Fire,Itaque ullam et illo blanditiis a veniam.,1251.58,9,Electronics,https://example.com/images/103.jpg
+104,Think and Grow Rich,Cupiditate maxime quasi exercitationem doloremque eos sunt repudiandae.,3922.99,53,Electronics,https://example.com/images/104.jpg
+105,Kissan Jam,Fugit quod quos cum voluptas unde voluptas possimus beatae itaque.,1094.98,40,Books,https://example.com/images/105.jpg
+106,Aashirvaad Atta,Suscipit blanditiis hic sed quaerat cum eos architecto suscipit quas.,801.87,88,Fashion,https://example.com/images/106.jpg
+107,Amul Butter,Voluptatum tempore ipsa iusto veritatis modi natus.,1155.27,24,Fashion,https://example.com/images/107.jpg
+108,OnePlus TV,Ullam fuga nam temporibus repudiandae dignissimos natus in.,1523.82,5,Electronics,https://example.com/images/108.jpg
+109,Aashirvaad Atta,Rem earum velit ratione assumenda non est.,3477.8,4,Food,https://example.com/images/109.jpg
+110,Amul Butter,Eaque dignissimos nemo delectus veniam.,4815.93,24,Books,https://example.com/images/110.jpg
+111,Nestle Maggi,Recusandae at quod atque vitae fugit tempore consectetur fugiat.,1515.35,100,Food,https://example.com/images/111.jpg
+112,Amul Butter,Quasi tempora doloremque laudantium architecto illo reprehenderit consequuntur quibusdam.,1570.69,27,Food,https://example.com/images/112.jpg
+113,The Alchemist,Nemo harum sequi quas blanditiis deserunt.,815.01,27,Food,https://example.com/images/113.jpg
+114,Nike Running Shoes,Sint similique et suscipit cum dolorum eum quia quisquam.,4364.33,78,Fashion,https://example.com/images/114.jpg
+115,Biba Dress,Ut maiores quia exercitationem amet vitae tempora quasi.,1110.52,3,Books,https://example.com/images/115.jpg
+116,MTR Ready Meals,Illo mollitia ipsam dolorem dicta.,3761.53,28,Fashion,https://example.com/images/116.jpg
+117,Boat Earbuds,Nulla quibusdam vel incidunt ratione explicabo cupiditate molestias vero autem exercitationem.,3826.46,17,Books,https://example.com/images/117.jpg
+118,The Secret,Vitae dolorum dolorem soluta hic.,2147.76,73,Fashion,https://example.com/images/118.jpg
+119,OnePlus TV,Autem nemo rem aperiam explicabo provident.,1172.65,41,Food,https://example.com/images/119.jpg
+120,Fabindia Kurta,Itaque porro aliquam quis ut temporibus beatae.,3145.17,24,Electronics,https://example.com/images/120.jpg
+121,Think and Grow Rich,Minus ex optio iusto esse quas.,2863.55,10,Books,https://example.com/images/121.jpg
+122,Wings of Fire,Et enim molestiae alias vel fuga a iusto commodi.,4345.25,6,Food,https://example.com/images/122.jpg
+123,OnePlus TV,Non quaerat eos sit.,4830.37,90,Electronics,https://example.com/images/123.jpg
+124,iPhone 15 Pro,Praesentium iure nisi libero beatae hic.,407.3,56,Fashion,https://example.com/images/124.jpg
+125,Sony Headphones,Quidem ducimus deserunt nesciunt vitae sint dolores ex repellat.,2660.57,66,Food,https://example.com/images/125.jpg
+126,Samsung Galaxy S24,Debitis sequi iure labore iste minima ad laudantium molestias.,1907.03,96,Fashion,https://example.com/images/126.jpg
+127,Rich Dad Poor Dad,Aliquam dolor magni consectetur similique voluptas provident accusantium illum perspiciatis.,1271.05,56,Books,https://example.com/images/127.jpg
+128,Kissan Jam,Voluptatum quisquam vitae consequatur sed deleniti porro.,4726.92,90,Fashion,https://example.com/images/128.jpg
+129,Think and Grow Rich,Ipsum delectus corrupti reprehenderit.,1809.82,53,Books,https://example.com/images/129.jpg
+130,Levi's Jeans,Officia temporibus error in eligendi.,2562.86,60,Electronics,https://example.com/images/130.jpg
+131,Samsung Galaxy S24,Veniam a optio suscipit eius consectetur fugiat.,4186.7,7,Food,https://example.com/images/131.jpg
+132,Samsung Galaxy S24,Temporibus voluptatum ullam fugiat deserunt laudantium ducimus numquam hic.,3296.6,18,Electronics,https://example.com/images/132.jpg
+133,Nestle Maggi,Laudantium possimus alias explicabo ex error commodi excepturi.,4806.27,96,Food,https://example.com/images/133.jpg
+134,MTR Ready Meals,Sequi laboriosam dolorem laborum ut atque.,1697.4,58,Electronics,https://example.com/images/134.jpg
+135,Amul Butter,Exercitationem tempore fugiat dolore autem qui reprehenderit debitis expedita.,886.24,77,Fashion,https://example.com/images/135.jpg
+136,Nike Running Shoes,Alias unde quibusdam commodi soluta nam eveniet nam consectetur ipsum.,1017.49,53,Fashion,https://example.com/images/136.jpg
+137,Ray-Ban Sunglasses,Voluptatum a nostrum facilis tempore repellendus.,2191.71,2,Books,https://example.com/images/137.jpg
+138,Wings of Fire,Modi quam sed illum dolorum eum in dolore qui.,546.03,96,Fashion,https://example.com/images/138.jpg
+139,Fabindia Kurta,Officia odio assumenda voluptate ducimus excepturi maxime.,4896.77,86,Fashion,https://example.com/images/139.jpg
+140,Wings of Fire,Perspiciatis nesciunt aut libero architecto eaque inventore.,3353.84,37,Books,https://example.com/images/140.jpg
+141,Fabindia Kurta,Aspernatur ad mollitia laborum tenetur.,2354.22,43,Food,https://example.com/images/141.jpg
+142,MTR Ready Meals,Veniam dicta adipisci dolores eum voluptatibus aperiam perspiciatis aliquam dolorem.,4941.31,44,Books,https://example.com/images/142.jpg
+143,Levi's Jeans,Dolore ut voluptate ab error alias.,110.72,12,Electronics,https://example.com/images/143.jpg
+144,Ray-Ban Sunglasses,Voluptates earum iusto unde nemo iure voluptate tenetur dolorum cumque.,110.39,57,Books,https://example.com/images/144.jpg
+145,Nike Running Shoes,Nam laudantium voluptas saepe est voluptatibus iusto deleniti dignissimos ullam.,347.7,30,Books,https://example.com/images/145.jpg
+146,Kissan Jam,Ex quas est adipisci similique facilis amet ea voluptate.,597.08,27,Books,https://example.com/images/146.jpg
+147,MTR Ready Meals,Vero adipisci eius laudantium enim aspernatur sapiente minima.,952.36,37,Electronics,https://example.com/images/147.jpg
+148,Samsung Galaxy S24,Voluptate temporibus optio explicabo recusandae vero ex inventore fugit.,541.54,56,Books,https://example.com/images/148.jpg
+149,Rich Dad Poor Dad,Explicabo expedita exercitationem nobis consectetur dolore error accusantium.,3449.68,83,Electronics,https://example.com/images/149.jpg
+150,Levi's Jeans,Doloribus distinctio quibusdam exercitationem hic illo error.,3720.71,52,Electronics,https://example.com/images/150.jpg
+151,The Alchemist,Architecto ipsa commodi itaque at ea eligendi delectus.,262.19,48,Fashion,https://example.com/images/151.jpg
+152,Amul Butter,Odit recusandae impedit autem doloribus odit cumque.,726.49,32,Books,https://example.com/images/152.jpg
+153,Boat Earbuds,Commodi veritatis deserunt exercitationem soluta.,564.35,77,Electronics,https://example.com/images/153.jpg
+154,MTR Ready Meals,Tenetur tenetur est nam sequi doloremque blanditiis magnam unde.,4719.44,36,Electronics,https://example.com/images/154.jpg
+155,OnePlus TV,Sequi inventore neque vero sit optio eveniet adipisci magnam ex eaque.,4621.34,45,Food,https://example.com/images/155.jpg
+156,Ray-Ban Sunglasses,Sapiente atque est quidem nesciunt maiores.,488.34,61,Electronics,https://example.com/images/156.jpg
+157,Biba Dress,Assumenda cum perferendis ducimus molestias adipisci ea.,4426.1,14,Electronics,https://example.com/images/157.jpg
+158,Ray-Ban Sunglasses,Enim vel qui sint reprehenderit voluptatibus commodi vel occaecati labore.,4340.52,14,Books,https://example.com/images/158.jpg
+159,Biba Dress,Neque possimus accusantium perferendis consequuntur necessitatibus vero delectus dolorem dolor.,1995.81,78,Fashion,https://example.com/images/159.jpg
+160,Nestle Maggi,Quod ducimus eaque pariatur rem eligendi earum in quisquam officia.,797.43,66,Books,https://example.com/images/160.jpg
+161,Amul Butter,Pariatur maxime nihil deleniti sequi quod esse fugit.,1386.1,91,Electronics,https://example.com/images/161.jpg
+162,OnePlus TV,Iste eveniet esse vero odio.,2743.94,23,Food,https://example.com/images/162.jpg
+163,The Alchemist,Placeat vel illum vero repellendus.,1010.18,34,Electronics,https://example.com/images/163.jpg
+164,Nestle Maggi,Hic nemo mollitia asperiores sequi itaque debitis consequuntur.,2459.65,43,Electronics,https://example.com/images/164.jpg
+165,Nike Running Shoes,Ipsam consectetur qui impedit nobis amet.,532.3,27,Electronics,https://example.com/images/165.jpg
+166,Nike Running Shoes,Officiis repudiandae quaerat doloribus nostrum velit ab unde tempora vitae.,3102.17,14,Electronics,https://example.com/images/166.jpg
+167,Aashirvaad Atta,Nulla doloribus officiis beatae pariatur placeat perspiciatis atque possimus.,3489.71,80,Fashion,https://example.com/images/167.jpg
+168,Amul Butter,Sapiente sint beatae optio eos impedit.,1415.62,30,Fashion,https://example.com/images/168.jpg
+169,Wings of Fire,Harum vel quas nulla nulla soluta quae laudantium.,4108.09,95,Fashion,https://example.com/images/169.jpg
+170,Levi's Jeans,Quaerat est cumque consectetur impedit eius vitae quasi expedita assumenda.,4928.22,45,Books,https://example.com/images/170.jpg
+171,Amul Butter,Autem quo recusandae amet.,4928.26,85,Electronics,https://example.com/images/171.jpg
+172,Samsung Galaxy S24,Ipsa omnis magni non ad tempore.,284.98,14,Books,https://example.com/images/172.jpg
+173,Kissan Jam,Odit architecto eaque perferendis ipsa expedita totam nemo.,3068.07,38,Food,https://example.com/images/173.jpg
+174,Kissan Jam,Sunt eveniet tenetur quibusdam aliquam fugit rerum.,3297.79,0,Books,https://example.com/images/174.jpg
+175,Aashirvaad Atta,Ipsam quam natus blanditiis deleniti.,1406.71,93,Electronics,https://example.com/images/175.jpg
+176,Amul Butter,Maiores totam necessitatibus doloremque tempora blanditiis alias quidem.,3429.55,38,Electronics,https://example.com/images/176.jpg
+177,OnePlus TV,Ex quidem nam totam iusto veniam.,2973.07,6,Fashion,https://example.com/images/177.jpg
+178,Aashirvaad Atta,Quas cumque non neque ea unde.,3184.52,37,Fashion,https://example.com/images/178.jpg
+179,Nestle Maggi,Eos optio totam voluptates delectus doloribus voluptatibus dolore.,1812.23,98,Food,https://example.com/images/179.jpg
+180,The Alchemist,Quidem neque commodi maxime animi ullam nam mollitia voluptatum.,1562.42,23,Books,https://example.com/images/180.jpg
+181,Wings of Fire,Nostrum asperiores nesciunt enim voluptatibus quo asperiores molestiae.,3431.48,75,Books,https://example.com/images/181.jpg
+182,Fabindia Kurta,Expedita nobis explicabo possimus voluptate.,4578.12,98,Electronics,https://example.com/images/182.jpg
+183,Think and Grow Rich,Beatae eius quod deleniti dolorem possimus deserunt minus.,2273.88,90,Fashion,https://example.com/images/183.jpg
+184,Samsung Galaxy S24,Quas exercitationem laborum modi aperiam inventore reprehenderit praesentium.,3772.18,77,Fashion,https://example.com/images/184.jpg
+185,Boat Earbuds,Recusandae molestias natus aperiam quas.,1311.49,84,Books,https://example.com/images/185.jpg
+186,Rich Dad Poor Dad,Itaque odit unde sint laudantium expedita.,1273.91,8,Electronics,https://example.com/images/186.jpg
+187,Amul Butter,Mollitia ullam neque id amet excepturi.,602.19,57,Books,https://example.com/images/187.jpg
+188,Boat Earbuds,Impedit est deserunt laudantium labore et maiores sed voluptates praesentium.,2557.84,39,Electronics,https://example.com/images/188.jpg
+189,Levi's Jeans,Illum eum in non ullam dolor vero dolore molestias eum.,1801.09,13,Electronics,https://example.com/images/189.jpg
+190,Samsung Galaxy S24,Animi nostrum corporis fuga aperiam incidunt.,2870.28,54,Fashion,https://example.com/images/190.jpg
+191,MTR Ready Meals,Totam suscipit quam rem aut natus molestiae nisi illum vel aliquam.,3899.51,98,Food,https://example.com/images/191.jpg
+192,Boat Earbuds,Atque quae quasi nobis est facilis eos sint iste.,389.25,20,Fashion,https://example.com/images/192.jpg
+193,Rich Dad Poor Dad,Voluptatibus beatae iusto sapiente fugiat quo voluptas sequi iusto.,3875.33,62,Books,https://example.com/images/193.jpg
+194,Think and Grow Rich,Ipsam dolor earum molestiae maiores tempora veniam excepturi reprehenderit.,2308.3,12,Electronics,https://example.com/images/194.jpg
+195,iPhone 15 Pro,Distinctio earum porro corporis.,4942.86,64,Books,https://example.com/images/195.jpg
+196,Samsung Galaxy S24,Eius aut explicabo aspernatur nostrum quae voluptas consequuntur minima ipsa.,3405.05,41,Fashion,https://example.com/images/196.jpg
+197,Samsung Galaxy S24,Optio fugiat mollitia fugiat dolore sit consectetur.,3418.05,43,Books,https://example.com/images/197.jpg
+198,Nike Running Shoes,Quia ullam sequi neque necessitatibus perferendis repellat inventore inventore.,3046.97,21,Fashion,https://example.com/images/198.jpg
+199,Aashirvaad Atta,Deleniti ratione mollitia omnis earum asperiores magnam veritatis architecto.,4556.44,23,Fashion,https://example.com/images/199.jpg
+200,Rich Dad Poor Dad,Alias fuga provident voluptatem dolorem dolores voluptates doloribus.,3429.5,92,Electronics,https://example.com/images/200.jpg
